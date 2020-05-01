@@ -1,0 +1,17 @@
+# Test 2 - testing errors
+INSERT INTO 281class 3 ROWS
+PRINT FROM 281class 3 emotion person Y/N ALL
+REMOVE 281class
+DELETE from 281class where Y/N > false
+GENERATE FOR 281class bst INDEX ON Y/N
+JOIN 281class AND bull WHERE Y/N = test
+CREATE cities 5 string string int double bool name state population area is_capital?
+CREATE cities 5 string string int double bool name state population area is_capital?
+PRINT FROM 281class 3 emotion person chubby ALL
+DELETE from 281class where chubby > false
+GENERATE FOR 281class bst INDEX ON chubby
+REMOVE 281class
+QUIT
+
+
+
